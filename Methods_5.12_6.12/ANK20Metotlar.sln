@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method Call by Value ve Call by Reference 5.12", "ANK20Metotlar\Method Call by Value ve Call by Reference 5.12.csproj", "{DEDE68DF-A1FA-4E16-8152-9C16FC274266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method Overloading 6.12", "MethotOverloading\Method Overloading 6.12.csproj", "{283B439E-0516-4732-94F0-872FAE60E2D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEDE68DF-A1FA-4E16-8152-9C16FC274266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDE68DF-A1FA-4E16-8152-9C16FC274266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDE68DF-A1FA-4E16-8152-9C16FC274266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDE68DF-A1FA-4E16-8152-9C16FC274266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283B439E-0516-4732-94F0-872FAE60E2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283B439E-0516-4732-94F0-872FAE60E2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283B439E-0516-4732-94F0-872FAE60E2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283B439E-0516-4732-94F0-872FAE60E2D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97791CF6-47AA-4B51-AFD9-F3F4671FE129}
+	EndGlobalSection
+EndGlobal
